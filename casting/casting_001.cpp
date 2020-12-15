@@ -8,8 +8,8 @@ int main(){
 	float Float1 = 30.5;
 	
 	/*	METHOD 1 : int(varible)		example:	a = int(a);   [functional]
-	 *  METHOD 2 : (int)varible		example:	a = (int)a;   [C-like]
-   *  ควรสร้างตัวแปรมารับค่าใหม่ที่ทำการแปลง
+	 * 	METHOD 2 : (int)varible		example:	a = (int)a;   [C-like]
+   	 *  	ควรสร้างตัวแปรมารับค่าใหม่ที่ทำการแปลง
 	 */
    
   int(Integer1);
