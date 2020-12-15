@@ -3,7 +3,7 @@
 
 void usingPointer(){
 	char name[20];
-	char *ptr_name = name;
+	char *ptr_name = name;		//declare pointer
 	
 	gets(name);
 	puts(ptr_name);
