@@ -10,6 +10,6 @@ int main(){
 	printf("------------------------------\n");
 	
 	if(e == 'e'){
-		system("cls");
+		system("cls");	//clear screen
 	}
 }
