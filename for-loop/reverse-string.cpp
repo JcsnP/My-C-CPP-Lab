@@ -10,3 +10,7 @@ int main(){
 		cout << name[i];
 	}
 }
+
+/* COMMENT
+use strlen to find string length
+*/
