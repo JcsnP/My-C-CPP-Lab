@@ -26,4 +26,8 @@ main(){
     for(j = 0; j < strlen(greeting[i]); ++j){
         printf("%c", greeting[i][j]);
     }
+    
+    /* BETTER WAY
+    printf("%s", greeting[i]);
+    */
 }
