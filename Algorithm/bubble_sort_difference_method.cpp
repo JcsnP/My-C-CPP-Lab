@@ -12,7 +12,7 @@ using namespace std;
 #define MAX_STRING 255
 
 void bubble_sort_method_1(int arr[], int number){
-	int i, j, temp;
+	int i, j;
 	cout << "bubble_sort_method_1: " << endl;
 	
 	for(j = 0; i < number; i++){
@@ -25,7 +25,7 @@ void bubble_sort_method_1(int arr[], int number){
 }
 
 void bubble_sort_method_2(int arr[], int number){
-	int i, j, temp;
+	int i, j;
 	
 	cout << "bubble_sort_method_2: " << endl;
 	for(i = 0; i < number; i++){
