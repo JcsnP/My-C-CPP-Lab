@@ -24,7 +24,7 @@ int Human::population = 0;
 
 int main(){
 	Human james("Chitsaupong", 19);
-	Human chef("Taworn", 19);
+	Human chef("Taworn", 20);
 	Human liam("Liam", 48);
 	
 	cout << "Population: " << liam.get_population();
